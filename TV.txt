@@ -4,8 +4,6 @@
 翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-翡翠,http://erp.giihgtidg.com:8080/live/jade01.m3u8
-翡翠,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 
 J1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
@@ -84,6 +82,27 @@ CCTV-17 农业农村,https://live.v1.mk/aishang/cctv17hd
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 CCTV-16 奥林匹克4K,https://live.v1.mk/aishang/cctv164k
 
+CCTV1综合,http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
+CCTV2财经,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
+CCTV3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
+CCTV4国际亚洲,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv4_2/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+CCTV4国际欧洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
+CCTV4国际美洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2/index.m3u8
+CCTV6电影高清,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv6_2/index.m3u8#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+CCTV7国防军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
+CCTV8电视剧,https://cctvcnch5ca.v.wscdns.com/live/cctv8_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
+CCTV9记录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+CCTV10蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
+CCTV10科教,https://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
+CCTV11戏曲,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
+CCTV12科教,http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
+CCTV13新闻,https://liveali.ifeng.com/live/CCTV.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
+CCTV14少儿,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8#https://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
+CCTV15音乐,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
+CCTV17农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+
+
+
 湖南卫视,https://live.v1.mk/aishang/hunwshd
 浙江卫视,https://live.v1.mk/aishang/zjwshd
 东方卫视,https://live.v1.mk/aishang/dfwshd
@@ -154,23 +173,6 @@ SKY HIGH NATURE 4K HDR,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/14248/ind
 Liberty KINOENG  UHD,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17060/index.m3u8
 Liberty MARVEL 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15090/index.m3u8
 
-七龙珠改,http://txtest-xp2p.p2p.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.xs
-「解说」七龙珠,http://txtest-xp2p.p2p.huya.com/src/1199588542242-1199588542242-5551961020739616768-2399177207940-10057-A-0-1.xs
-名侦探柯南,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
-童年经典,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
-哆啦A梦,http://txtest-xp2p.p2p.huya.com/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.xs
-成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34460526
-漫威电影,http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
-怀旧动画,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
-金庸,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
-「轮播」经典动漫,http://tc-tct.douyucdn2.cn/dyliveflv3a/1174353rvfDfBUMa.flv?wsAuth=5e4b0650aeea0049fc0ee71f70daea58&token=cpn-androidmpro-0-1174353-4620877bf9ebd8e891d0159ae8dd3ee8092d33042c3557d1&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-「轮播」动漫,http://epg.112114.xyz/douyu/1487654
-「轮播」电影,http://txtest-xp2p.p2p.huya.com/src/1199579767212-1199579767212-5514272553868197888-2399159657880-10057-A-0-1.xs
-「轮播」动作大片,http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
-「轮播」盗墓笔记,http://txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.xs
-「轮播」电视剧,http://txtest-xp2p.p2p.huya.com/src/1394565206-1394565206-5989611951909502976-2789253868-10057-A-0-1.xs
-「轮播」古装武侠,http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
-少儿,#genre#
 宝宝巴士,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key
 宝宝巴士,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=08b3f8f3a31f12001f96a0f53163b0596
 宝宝巴士,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key
