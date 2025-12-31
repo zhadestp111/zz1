@@ -24,6 +24,7 @@ TVB Plus,https://stream1.freetv.fun/1ba42cc4a8fd0d66311f90bdb5fb2701abf64c9e442a
 J1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 
 星河,https://stream1.freetv.fun/e1f2e0d3c534c1d7b467fa6bf2a647527e6841c6c2d76b14b29e22682fba93f1.ctv
+星河,https://stream1.freetv.fun/tvbxing-he-6.ctv
 
 经典,https://stream1.freetv.fun/9f3cc38c6035c8df21a7055aca8d449b14238eb1d6d3a5fb1d41cc47e2f4785f.ctv
 
