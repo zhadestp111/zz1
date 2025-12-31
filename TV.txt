@@ -1,23 +1,38 @@
 电视,#genre#
 
-翡翠,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+翡翠台,https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.ctv
+翡翠台,https://stream1.freetv.fun/7626cd1e0830deb6cc37d51b751648e27e25c8136a22f61f6bb6ce5a85dcb0c4.ctv
+翡翠台,https://stream1.freetv.fun/ec738c8f8b5d5706670eb42e4fe79edc5d6f471ba93d0eb20dff4c372efef4db.ctv
+翡翠台,https://stream1.freetv.fun/8a31735d012894cb8c275ebf1a898a3bb42f7201dd54d6d1201d724877fd9c19.ctv
+翡翠台,https://stream1.freetv.fun/d9a2e34945118d998ae46a4440adbd8b97ad86e379c36161dbea8d01c7ea74a6.ctv
+翡翠台,https://stream1.freetv.fun/ab22ef5c7f5290653d178b4eefe1c6c1ff4cf374752e59ab2708ec675951bcfa.ctv
+翡翠台,https://stream1.freetv.fun/fb264f1bfef92e4d5fd8cf107039be128d5e8cfa55c2730efd8d3fb231346d22.ctv
+翡翠台,https://stream1.freetv.fun/bd5fd58b590cbb1ae54807d43ded272a7db28b22446a0239754cf241dd1c27f3.ctv
+翡翠,http://rihou.cc:555/tv/[Pd]无线翡翠
+
+TVB Plus，https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.ctv
+TVB Plus，https://stream1.freetv.fun/6ade45822dc9265d4aba6c1854bfd6a2635b13d96624929150024f662eca25d7.m3u8
+TVB Plus，https://stream1.freetv.fun/f154902517f39c01a56296587c62613fee9c99bc97e5dc6867da9a187c96aa13.m3u8
+TVB Plus，https://stream1.freetv.fun/1ba42cc4a8fd0d66311f90bdb5fb2701abf64c9e442af3a072af203d2f4be0a4.ctv
 
 J1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 
-星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+星河,https://stream1.freetv.fun/e1f2e0d3c534c1d7b467fa6bf2a647527e6841c6c2d76b14b29e22682fba93f1.ctv
 
-经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+经典,https://stream1.freetv.fun/5d67b3e9131d07f6e7da4e6fafda09cc609ee7fefb2e14ca14cf5bd6da5e4107.m3u8
+经典,https://stream1.freetv.fun/2aef95d17a02f90322721318b132da070c7e4cf542e6fcebe3d6ce02379a4742.m3u8
+经典,https://stream1.freetv.fun/0854ce5d4e8860e055549f5881ef05ab76b1bd0bc5bea78057553ed66f44d800.m3u8
+经典,https://stream1.freetv.fun/490340d742eb83c96123103e77460d8be396d5b87ee81e045aecaed070e152b6.m3u8
+经典,https://stream1.freetv.fun/0e9dc5f67eeae3d90d5afce9b70b9a06d6b3db352230f64d93221b83afb9e9ff.m3u8
+经典,https://stream1.freetv.fun/395aa9bcecda230deb8046ff6d1b97f4158ab2d965e8610e865dc27560447d33.m3u8
+经典,https://stream1.freetv.fun/52055e00fcf09c1a1fdd4289f27dce8639ebf402e478b7204b22711cb6589d4c.m3u8
+经典,https://stream1.freetv.fun/9f3cc38c6035c8df21a7055aca8d449b14238eb1d6d3a5fb1d41cc47e2f4785f.ctv
 
 NOW NEWS,http://cdn.163189.xyz/163189/now
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
