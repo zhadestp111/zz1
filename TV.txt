@@ -1,6 +1,6 @@
 电视,#genre#
 
-翡翠,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+翡翠,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
@@ -17,6 +17,8 @@ J1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 NOW NEWS,http://cdn.163189.xyz/163189/now
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
